@@ -55,12 +55,11 @@ form button {
 
 form button:hover {
     cursor: pointer;
-    background-color: #184818;
+    background-color: #162616;
 }
 
 .imc {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
-   
+    justify-content: space-around;   
 }
